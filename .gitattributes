@@ -1,0 +1,9 @@
+﻿* text=auto
+
+*.md   text
+*.py   text eol=lf
+*.sh   text eol=lf
+*.bat  text eol=crlf
+
+*.dtb  binary
+*.img  binary

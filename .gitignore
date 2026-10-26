@@ -1,0 +1,6 @@
+﻿__pycache__/
+*.pyc
+*.orig
+*.bak
+*.img
+qcom-msm89x7.img
